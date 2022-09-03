@@ -1,1 +1,1 @@
-# News-Classification-Model
+#  FAke News Prediction 
