@@ -6,7 +6,7 @@ This dataset is taken from the https://www.kaggle.com/c/fake-news/data?select=tr
 
 <i> About the Dataset : </i>
 
-id:unique id for a news article
+id: unique id for a news article
 
 title: the title of a news article
 
