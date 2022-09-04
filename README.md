@@ -44,3 +44,8 @@ The prgram then divides the dataset into training and testing samples in <b> <i>
 
 Accuracy score is then calculated by comparing with the correct results of the training dataset.
 
+--> <i> <b> OUTPUT : </b> </i> 
+
+The resultant output of the project is:
+
+<img width="394" alt="Screenshot 2022-09-04 at 2 46 11 PM" src="https://user-images.githubusercontent.com/71970250/188306438-4fcb837e-028a-4a50-bad5-bf82ae82f7e0.png">
