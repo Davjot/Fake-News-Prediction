@@ -30,3 +30,14 @@ The libraries used to implement this project are:
 
 ● REGULAR EXPRESSION(Re)
 
+0 and 1 are used to predict whether the news is fake or not in the following way:
+
+● 0 --> The News is Real
+
+● 1 --> The News is Fake
+
+Algorithm used to implement thsi proeject is <b> <i> Logistic Regression </i> </b>
+
+The prgram then divides the dataset into training and testing samples in <b> <i> 80:20 </i> </b> ratio randomly using train_test_split() function available in <b> <i> sklearn </i> </b> module.
+
+Accuracy score is then calculated by comparing with the correct results of the training dataset.
