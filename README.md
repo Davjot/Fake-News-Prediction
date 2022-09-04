@@ -38,7 +38,7 @@ The libraries used to implement this project are:
 
 ● 1 --> The News is Fake
 
-Algorithm used to implement thsi proeject is <b> <i> Logistic Regression. </i> </b>
+Algorithm used to implement this proeject is <b> <i> Logistic Regression. </i> </b>
 
 The prgram then divides the dataset into training and testing samples in <b> <i> 80:20 </i> </b> ratio randomly using <b> <i> train_test_split() </i> </b> function available in <b> <i> sklearn </i> </b> module.
 
